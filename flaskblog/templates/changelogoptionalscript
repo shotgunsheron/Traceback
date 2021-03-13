@@ -1,0 +1,12 @@
+        <div class="col-md-4">
+          <div class="content-section">
+            <h3>ChangeLog</h3>
+            <p class='text-muted'>This is the first version of this website!
+              <ul class="list-group">
+                <li class="list-group-item list-group-item-light">Things will be added here in the future!!</li>
+
+
+              </ul>
+            </p>
+          </div>
+        </div>
